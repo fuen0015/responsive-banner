@@ -17,7 +17,6 @@ p {
 }
 
 .btn-ghost:hover {
-  background-color: transparent;
   border-color: #efefef;
   color: #fff;
 }
